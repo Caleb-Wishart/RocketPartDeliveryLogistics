@@ -1,0 +1,14 @@
+{
+  "name": "Space-Exploration-Rocket-Part-Delivery",
+  "version": "0.0.1",
+  "title": "Space Exploration Rocket Part Delivery",
+  "author": "I Ack Emma",
+  "factorio_version": "1.1",
+  "description": "My own personal tweaks to the Space Exploration Pack\nAdds the ability to send packed rocket components in delivery capsules to allow for easier cargo rocket based logistics, also increases the stack size of some items.\nCredit to Earendel and the Space Exploration Mod for the icons in thumbnail\nVisit: https://mods.factorio.com/mod/space-exploration",
+  "dependencies": [
+    "base",
+    "space-exploration",
+    "space-exploration-postprocess",
+    "LoaderRedux"
+  ]
+}
